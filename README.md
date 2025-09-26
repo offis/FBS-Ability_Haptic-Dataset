@@ -1,6 +1,3 @@
-Here’s a cleaned-up version of your README text, with spelling, grammar, and sentence-structure mistakes fixed while keeping your original meaning intact:
-
----
 
 # Haptic Dataset
 
@@ -63,6 +60,3 @@ The folder **Data Analysis** contains the results of the user study and the quan
 * The subfolder **01_Violin_Plots** contains all participant responses in a CSV file (`study_rankings.csv`) and a Python script used to generate violin plots showing the score distribution for individual materials.
 * The subfolder **02_Statistical_Results** contains an Excel spreadsheet with all participant responses and additional calculations across these values, such as averages, medians, interquartile ranges, and medians of medians.
 
----
-
-Would you like me to also **tighten the style** (e.g., make it more concise and “publication-like”) or do you prefer it to stay **instructional and descriptive** as it is now?
